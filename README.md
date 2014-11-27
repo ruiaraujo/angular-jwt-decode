@@ -40,4 +40,4 @@ console.log(decoded);
  jwt-decode:https://github.com/auth0/jwt-decode
 
 
- Github: https://github.com/andresesfm/angular-underscore-module
+Inspiration for this module: https://github.com/andresesfm/angular-underscore-module
