@@ -1,10 +1,7 @@
 {
     "name": "angular-jwt-decode",
-    "main": [
-        "./bower_components/jwt-decode/build/jwt-decode.js",
-        "angular-jwt-decode.js"
-    ],
-    "version": "0.0.1",
+    "main": "angular-jwt-decode.js",
+    "version": "1.0.0",
     "authors": [
         "Rui Araújo <ruka.araujo@gmail.com>"
     ],
