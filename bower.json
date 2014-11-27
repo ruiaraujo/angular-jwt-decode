@@ -1,0 +1,28 @@
+{
+    "name": "angular-jwt-decode",
+    "main": [
+        "./bower_components/jwt-decode/build/jwt-decode.js",
+        "angular-jwt-decode.js"
+    ],
+    "version": "0.0.1",
+    "authors": [
+        "Rui Araújo <ruka.araujo@gmail.com>"
+    ],
+    "description": "Inject jwt-decode in your Angular Controllers and Services.",
+    "keywords": [
+        "angular",
+        "jwt",
+        "jwt-decode"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/ruiaraujo/angular-jwt-decode",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jwt-decode": "*"
+    }
+}
