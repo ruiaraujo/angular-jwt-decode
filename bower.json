@@ -1,7 +1,7 @@
 {
     "name": "angular-jwt-decode",
     "main": "angular-jwt-decode.js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         "Rui Araújo <ruka.araujo@gmail.com>"
     ],

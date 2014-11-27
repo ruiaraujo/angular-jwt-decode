@@ -25,7 +25,7 @@ Inspired by https://github.com/andresesfm/angular-underscore-module
 angular.module('MyApp').controller('MyCtrl', function ($scope, JwtDecode) {
 var token = 'eyJ0eXAiO.../// jwt token';
 
-var decoded = JwtDecode(token);
+var decoded = JwtDecode.decode(token);
 console.log(decoded);
 
 /* prints:
