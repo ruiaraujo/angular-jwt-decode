@@ -7,7 +7,7 @@ Inspired by https://github.com/andresesfm/angular-underscore-module
 
 0. get it 
 
-   ```bower install angular-underscore-module```
+   ```bower install angular-jwt-decode```
 
 1. Add angular-jwt-decode.js to your main file (index.html)
 
